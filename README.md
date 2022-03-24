@@ -1,2 +1,2 @@
 # codepath-prework
-Codepath Prework Project - Light and Sound Memory Game
+Light and Sound Memory Game
