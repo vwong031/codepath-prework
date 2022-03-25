@@ -58,8 +58,7 @@ Losing
   > Some questions I have about web development are: (1) How do you create a website? I know there are websites that allow people to create websites, but without using that, how does a person truly create a website? Are there certain softwares to be used? (2) Does every website use HTML, CSS, and Javascript? Is it possible to do web development using other languages? [CONTINUE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+  > If I had a few more hours to work on this project, I think I would add more levels to the game. This could include a longer pattern or maybe even more buttons. It would also be cool if the Light and Sound Memory Game had a theme or could be customizable. For example, instead of the buttons simply lighting up and making sounds, the buttons could have images and make the sound of the images. A specific example could be the buttons having animal images and making the noises of those animals when the buttons are lit. This idea could also be applied to many other themes such as nature, aliens, clapping, etc. 
 
 
 ## Interview Recording URL Link
@@ -69,7 +68,7 @@ Losing
 
 ## License
 
-    Copyright [Valerie Wong]
+    Copyright Valerie Wong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
