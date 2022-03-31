@@ -63,7 +63,7 @@ Losing
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://1drv.ms/v/s!AsL43tdaOmCsgcc5XMU-0s67_i8LUw?e=ft0XbS)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1CavY9R5Pp2GJlJy6aH4jOhuQXNG80P8a/view?usp=sharing)
 
 
 ## License
